@@ -1,5 +1,6 @@
 # Animated Gloves Mod Template for Payday 3 UE4.27
 
+### The file to edit is Content/Mods/AnimatedGlovesMod/DA_GlovesCustomVars.
 ### Remember to make sure you clear the Frames array every time you want to create a new mod.
 
 ## Variables explanation:
